@@ -1,254 +1,193 @@
-# <i>My Past Blockchain Projects on Bitcoin, EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
+# Blockchain & Web3 Engineer
 
-I have successfully developed multiple NFT/Blockchain projects encompassing various features such as minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games including dice, crash, jackpot, coinflip, among others. All repositories are currently set to private status.
+🚀 **I build scalable, secure blockchain systems as a Web3 engineer across EVM chains, Solana, and Bitcoin.** My expertise spans **DeFi, DEXs, blockchain protocols, hybrid on-chain/off-chain data systems, and AI agents**.
 
-<h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2>
+I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
-<h3><u><strong><i>Galactic Kingdom</i></strong></u></h3>
-<hr />
+---
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🌐 Key Expertise
 
-I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies. Our innovative tokenomics introduces the unique token 'GKB' for our play-to-earn (P2E) game. Users can experience the excitement of rarity, treasure boxes, and realistic 3D models of conquerors. 
+<p>
+<img alt="EVM" src="https://img.shields.io/badge/-EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="Solana" src="https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-FF4088?style=flat-square&logoColor=white" />
+</p>
 
-My responsibilities included backend development using Node.js, smart contract programming with Rust, and creating the game's website with Next.js and Tailwind CSS.
+---
 
-<img align="right" width="300px" src="https://i.ibb.co/BwRB4gG/Galactickingdom.png">
+## 📊 AI + Blockchain Architecture Overview
 
-- Site: <a href="https://galactickingdom.io">Galactic Kingdom</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-BE">Galactic Kingdom-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-FE">Galactic Kingdom-Frontend</a>
+```
++-----------------+        +-----------------------+      +-------------------------+
+| Real-World Data | --->   | AI Agent (LangGraph)  | ---> | Off-chain DB / Metadata |
+| (Strava, APIs)  |        | Personalized Coaching |      | SQLite / OpenSea JSON   |
++-----------------+        +-----------------------+      +-------------------------+
+         |                                                       |
+         |-------------------------------------------------------|
+                          Real-time updates & recommendations
+```
 
-<br />
+* **LangGraph AI Agent** → deterministic workflows for NFT progression & DeFi automation
+* **ChromaDB triple vector stores** → action history, training analysis, knowledge base
+* **Off-chain storage + OpenSea metadata** → gas-efficient NFT upgrades
+* **Caching & pooling** → <10ms response times for thousands of entities
 
+---
 
-<h3><u><strong><i>Ord Toolkit</i></strong></u></h3>
-<hr />
+### **🔷 Health Protocol**
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/259ed84a-ae2f-4202-bda7-29a2ae53ac55">
 
-I lead the development of the backend for Ord Toolkit, a platform focused on ordinals, BRC-20, and Bitcoin. Our comprehensive suite of utilities serves developers and everyday users, enhancing their experience with ordinals and blockchain technology.
+- Health Protocol is a Web3 initiative healthcare through RWA and AI, enabling community-led sharing of lived health experiences.
 
-<img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
+- The protocol was built on ZKsync and support on-chain health movement that connects communities and incentives around real-world health outcomes.
 
-- Site: <a href="https://ordtoolkit.app/">Ord Toolkit</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
+📌 **Live:** [healthprotocol.xyz](https://healthprotocol.xyz/)
+📌 **Twitter:** [Twitter](https://x.com/0xhealthshared/)
 
-<br />
+---
 
+### **🔷 Bebop**
 
-<h3><u><strong><i>DexOrdi</i></strong></u></h3>
-<hr />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
 
-DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
+- It offers a self-custodial trading app and an API that allows other protocols to access its routing and liquidity.
 
-<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+- Trades are executed by competing professional market makers (“solvers”) to deliver better pricing, lower slippage, and a smoother user experience.
 
-The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
+📌 **Live:** [Bebop](https://bebop.xyz/)
+📌 **Post:** [Medium](https://medium.com/bebop-dex/)
 
+---
 
+### **🔷 Bet Big**
 
-- Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7aebb6b6-5d86-4f9f-a01d-d9d90ceda200">
 
-<br />
+- betBIG is a crypto gambling (GambleFi) platform built on Blast, positioning itself as the main gambling hub within the ecosystem.
 
+- It aggregates on-chain casino-style games and decentralized betting experiences.
 
-<h3><u><strong><i>Asigna Bitcoin Multisig</i></strong></u></h3>
-<hr />
+- The platform distributes 100% of its profits to token stakers, directly aligning users with protocol revenue.
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+📌 **Live:** [betBIG](https://betbig.gg/)
+📌 **Contact:** [X](https://x.com/BetBIG_gg/)
 
+---
 
-The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.
+### **🔷 Blast Penguins**
 
-<img align="right" width="300px" src="https://i.ibb.co/0D21Pjx/Asigna.png">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cb5f852a-3dce-408b-a14d-373b3a6e96ab">
 
-- Live: <a href="https://btc.asigna.io/">Asigna Bitcoin Multisig</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/AsignaContract">Asigna Smart Contract</a>
-  - backend repo: <a href="https://github.com/milojeBtc/AsignaBackend">Asigna Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/AsignaFrontend">Asigna Front End</a>
+- Blast Penguins is an NFT collection built on the Blast blockchain.
 
+- Total supply: 3,333 unique NFTs
 
+- Positioned as one of the first and biggest NFT communities on Blast L2.
 
-<h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
-<hr />
+📌 **Live:** [Blast Penguins](http://blastpenguins.xyz/)
+📌 **Collection:** [blur.io](https://blur.io/blast/collection/blastpenguin)
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
 
-I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
+### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 
-<img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/1b8ee9e9-befd-42d0-b02c-86b0953acc85">
 
-- Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
+- Luck is a decentralized, non-custodial crypto casino built on the Solana blockchain, allowing users to gamble directly from their own wallets without accounts or KYC.
 
-<br />
+- It offers on-chain, provably fair games such as slots, roulette, crash, and Plinko, with all bets and payouts executed via smart contracts.
 
+- While the platform provides rewards through tokens and loyalty incentives, it remains a gambling product and users should participate cautiously, understanding the associated risks.
 
+📌 **Live:** [Luck.io](https://luck.io/)
+📌 **Contact:** [X](https://x.com/luckio/)
 
+---
 
+### **🟢 Critters Quest (NFT Game)**
 
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
 
-<h2 align="center"><u><strong><i>Ethereum</i></strong></u></h2>
+- Critters Quest is a Solana-based crypto gaming and NFT ecosystem built around “gaming collectibles that grow through gameplay,” powered by the $QUEST utility token.
 
-<h3><u><strong><i>DigiMonkz</i></strong></u></h3>
-<hr />
+- Each Critter NFT functions as a token-bound asset that accumulates rewards, XP, and in-game items through quests, mini-games, and other on-chain activities.
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- The project emphasizes entertainment-focused utility rather than investment, with users encouraged to participate cautiously given the inherent risks of NFT and crypto gaming.
 
-DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking. Our platform addresses mental health challenges and provides premium content and guidance to enhance mental, physical, and spiritual well-being for digital entrepreneurs and Web3 enthusiasts. The DigiMonkz Mastermind program aims to bring balance and empowerment to the lives of Web3 Degens, supporting the next generation of digital entrepreneurs.
-<img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
+📌 **Live:** [critters.quest](https://critters.quest/)
+📌 **Repo:** [GitHub]()
 
-- Live: <a href="https://digimonkz.com/">Digimonkz</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/DigiMonkz-Staking">Digimonkz-SmartContract</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
+---
 
+### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 
-<h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
-<hr />
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5c64413a-581f-4b03-bc61-29d286599efa">
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+- FloppyLabs is a staking-as-a-service platform primarily serving NFT projects within the Solana ecosystem.
 
+- It provides white-label, configurable NFT staking solutions that allow projects to offer rewards without building custom infrastructure.
 
-The NFT & ETH Raffle project offers participants the opportunity to acquire tickets on the Ethereum network, with enticing prospects of winning valuable rewards in the form of Ethereum cryptocurrency or exclusive NFTs.
+- As with any staking service, users should be aware of smart-contract and platform risks and participate only after reviewing project documentation and audits.
 
-<img align="right" width="300px" src="https://i.ibb.co/Csbzh84/Metswap.png">
+📌 **Live:** [floppylabs.io](https://floppylabs.io)
+📌 **Contact:** [X](https://x.com/FloppyLabs)
 
-- Demo: <a href="https://metasweep.io/">MetaSweep Protocol</a>
-- Live: <a href="https://metawin.com">MetaWin Protocol</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/RaffleSmartContract">MetaSweep Smart Contract</a>
-  - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
+---
 
+### **🟢 Rekt Gang**
 
-<h2 align="center"><u><strong><i>Solana</i></strong></u></h2>
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/477be5a1-a212-4c65-8cd6-3ffc9008b20a">
 
-<h3><u><strong><i>Hubble Protocol</i></strong></u></h3>
-<hr />
+- Rekt Gang is a multichain, NFT-focused crypto community and DAO built to support users who have experienced losses in crypto and NFTs.
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+- The DAO actively trades NFTs and participates in DeFi and crypto markets with the goal of growing its treasury and benefiting its members.
 
-Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
+- It also provides education, analytics, and community-driven tools to help members make better-informed decisions and avoid future losses.
 
-<img align="right" width="300px" src="https://i.ibb.co/yYSj4Vm/Hubble.png">
+📌 **Live:** [rektgang.com](https://www.rektgang.com/)
+📌 **Docs:** [Comic](https://www.rektgang.com/comic)
 
-- Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
-  - Functionality
-    - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
-    - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
-    - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
+---
 
-<h3><u><strong><i>Hydra Swap</i></strong></u></h3>
-<hr />
+### **🟢 HydraSwap (Solana DEX)**
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
 
-This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
+- Cross-chain DEX with **Hydra Market Maker (HMM)**
 
-<img align="right" width="300px" src="https://i.ibb.co/WpCn27r/Hydra-Swap.png">
+- Concentrated liquidity & impermanent loss reduction
 
-HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
+📌 **Live:** [hydraswap.io](https://hydraswap.io/)
+📌 **Repo:** [Smart Contracts]()
 
-- Live: <a href="https://hydraswap.io/">HydraSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/hydra-Defi-BE">Hydra-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/hydra-Defi-FE">Hydra-Frontend</a>
-  - SmartContract repo: <a href="https://github.com/milojeBtc/hydra-Defi-SC">Hydra-SmartContract</a>
+---
+
+### **🟢 Plutonians**
+
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5dd2b811-e8c3-4773-9604-a9a152453197">
+
+- Plutonians is a Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in an on-chain economy.
+
+- The platform uses NFTs for ships and items, alongside multiple tokens for governance, gameplay, and in-game mechanics such as travel and trading.
+
+- As with any crypto-based game, participation involves market and project risk, so users should review the project’s development progress and token design before engaging.
+
+📌 **Live:** [plutonians.tech](https://plutonians.tech/)
+📌 **Docs:** [Medium](https://plutonians.medium.com/)
+
+---
+
+
+## 🔒 Security & Audits
+
+* MultiSig wallets, PSBT, DLCs, governance & voting systems
+* Non-custodial staking & advanced security for Bitcoin, Solana & EVM
+
+---
