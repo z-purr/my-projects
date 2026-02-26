@@ -40,7 +40,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Health Protocol**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/259ed84a-ae2f-4202-bda7-29a2ae53ac55">
+![1500x500](https://github.com/user-attachments/assets/22959194-1ea7-43e0-9f3d-eb67161e8b35)
+
 
 - Health Protocol is a Web3 initiative healthcare through RWA and AI, enabling community-led sharing of lived health experiences.
 
