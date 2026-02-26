@@ -13,6 +13,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 <img alt="Solana" src="https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5178C6?style=flat-square&logo=soldity&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-FF4088?style=flat-square&logoColor=white" />
 </p>
