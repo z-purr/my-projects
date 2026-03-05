@@ -184,11 +184,3 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 📌 **Docs:** [Medium](https://plutonians.medium.com/)
 
 ---
-
-
-## 🔒 Security & Audits
-
-* MultiSig wallets, PSBT, DLCs, governance & voting systems
-* Non-custodial staking & advanced security for Bitcoin, Solana & EVM
-
----
