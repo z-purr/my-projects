@@ -52,6 +52,22 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ---
 
+
+### **🔷 Wagervs Prediction Game**
+
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7aebb6b6-5d86-4f9f-a01d-d9d90ceda200">
+
+- WagerVS.fun is a social prediction game platform where users create challenges, make predictions on topics like sports, crypto, or pop culture, and wager using VSChips in player-vs-player matches.
+
+- It offers zero-house-edge 1v1 PvP challenges with AI matchmaking, creator revenue sharing up to 80%, a sweepstakes-compliant model.
+
+- The platform is all wrapped in a social, skill-based game vibe rather than a traditional betting exchange.
+
+📌 **Live:** [wagervs.fun](https://www.wagervs.fun/)
+📌 **Twitter:** [X](https://x.com/WagerVS_fun)
+
+---
+
 ### **🔷 Bebop**
 
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
@@ -64,21 +80,6 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 📌 **Live:** [Bebop](https://bebop.xyz/)
 📌 **Post:** [Medium](https://medium.com/bebop-dex/)
-
----
-
-### **🔷 Bet Big**
-
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7aebb6b6-5d86-4f9f-a01d-d9d90ceda200">
-
-- betBIG is a crypto gambling (GambleFi) platform built on Blast, positioning itself as the main gambling hub within the ecosystem.
-
-- It aggregates on-chain casino-style games and decentralized betting experiences.
-
-- The platform distributes 100% of its profits to token stakers, directly aligning users with protocol revenue.
-
-📌 **Live:** [betBIG](https://betbig.gg/)
-📌 **Contact:** [X](https://x.com/BetBIG_gg/)
 
 ---
 
