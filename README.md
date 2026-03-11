@@ -55,7 +55,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Wagervs Prediction Game**
 
-<img width="350" height="170" alt="image" src="https://github.com/user-attachments/assets/161c1fad-a586-4740-92b4-e57a0fd40802" />
+<img align="right" width="350" height="170" alt="image" src="https://github.com/user-attachments/assets/161c1fad-a586-4740-92b4-e57a0fd40802" />
 
 - WagerVS.fun is a social prediction game platform where users create challenges, make predictions on topics like sports, crypto, or pop culture, and wager using VSChips in player-vs-player matches.
 
