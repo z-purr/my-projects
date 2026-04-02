@@ -41,7 +41,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Health Protocol**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/22959194-1ea7-43e0-9f3d-eb67161e8b35">
+![555593417-22959194-1ea7-43e0-9f3d-eb67161e8b35](https://github.com/user-attachments/assets/70531091-c1db-48f8-84b8-8777aec78a50)
 
 - Health Protocol is a Web3 initiative healthcare through RWA and AI, enabling community-led sharing of lived health experiences.
 
@@ -55,7 +55,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Wagervs Prediction Game**
 
-<img align="right" width="350" height="170" alt="image" src="https://github.com/user-attachments/assets/161c1fad-a586-4740-92b4-e57a0fd40802" />
+<img width="1590" height="670" alt="561689172-161c1fad-a586-4740-92b4-e57a0fd40802" src="https://github.com/user-attachments/assets/d3ebe757-aab0-4234-9227-445bce2ee2d7" />
 
 - WagerVS.fun is a social prediction game platform where users create challenges, make predictions on topics like sports, crypto, or pop culture, and wager using VSChips in player-vs-player matches.
 
@@ -70,7 +70,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Bebop**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
+<img width="1883" height="900" alt="b0c55d79-7da5-4880-b1fd-aac32ce7b662" src="https://github.com/user-attachments/assets/9f7e3136-3518-488c-9118-5ddc09b93ab1" />
+
 
 - Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
 
@@ -85,7 +86,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🔷 Blast Penguins**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cb5f852a-3dce-408b-a14d-373b3a6e96ab">
+<img width="1433" height="844" alt="cb5f852a-3dce-408b-a14d-373b3a6e96ab" src="https://github.com/user-attachments/assets/d41b9943-0242-42a9-85f1-3cfa47a79c28" />
 
 - Blast Penguins is an NFT collection built on the Blast blockchain.
 
@@ -100,7 +101,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/1b8ee9e9-befd-42d0-b02c-86b0953acc85">
+<img width="1891" height="900" alt="1b8ee9e9-befd-42d0-b02c-86b0953acc85" src="https://github.com/user-attachments/assets/3e7ac91c-2a25-487f-921f-3111ec2fc585" />
 
 - Luck is a decentralized, non-custodial crypto casino built on the Solana blockchain, allowing users to gamble directly from their own wallets without accounts or KYC.
 
@@ -115,7 +116,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Critters Quest (NFT Game)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
+<img width="1425" height="821" alt="507465253-92b8618c-9856-4756-a65c-bd22ee352b3d" src="https://github.com/user-attachments/assets/717ab050-a8d8-4b46-aac1-01cc1ed767c6" />
 
 - Critters Quest is a Solana-based crypto gaming and NFT ecosystem built around “gaming collectibles that grow through gameplay,” powered by the $QUEST utility token.
 
@@ -130,7 +131,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5c64413a-581f-4b03-bc61-29d286599efa">
+<img width="1806" height="889" alt="5c64413a-581f-4b03-bc61-29d286599efa" src="https://github.com/user-attachments/assets/8c09aed6-723c-4c5e-af65-67fce95654fb" />
 
 - FloppyLabs is a staking-as-a-service platform primarily serving NFT projects within the Solana ecosystem.
 
@@ -145,7 +146,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Rekt Gang**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/477be5a1-a212-4c65-8cd6-3ffc9008b20a">
+<img width="1882" height="893" alt="477be5a1-a212-4c65-8cd6-3ffc9008b20a" src="https://github.com/user-attachments/assets/ba2f0c51-9226-431d-9f7e-d87745f49a76" />
 
 - Rekt Gang is a multichain, NFT-focused crypto community and DAO built to support users who have experienced losses in crypto and NFTs.
 
@@ -160,7 +161,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 HydraSwap (Solana DEX)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
+<img width="1901" height="924" alt="410856280-f11ab626-1042-4de9-9455-8b6c35ee350b" src="https://github.com/user-attachments/assets/f915c60b-82ae-4acd-a12b-57369119e674" />
+
 
 - Cross-chain DEX with **Hydra Market Maker (HMM)**
 
@@ -173,7 +175,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Plutonians**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5dd2b811-e8c3-4773-9604-a9a152453197">
+<img width="1883" height="897" alt="5dd2b811-e8c3-4773-9604-a9a152453197" src="https://github.com/user-attachments/assets/9d931263-5cc8-4feb-95fb-465f687d7ef4" />
 
 - Plutonians is a Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in an on-chain economy.
 
